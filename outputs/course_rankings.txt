@@ -1,0 +1,10 @@
+Average Course Rankings (Lower score is better):
+==================================================
+ACC 6400 Advanced Tax Business Entities: 2.40
+ACC 6300 Data Analytics: 3.55
+ACC 6560 Financial Theory & Research I: 4.47
+ACC 6060 Professionalism and Leadership: 4.69
+ACC 6510 Financial Audit: 4.82
+ACC 6600 Business Law for Accountants: 5.09
+ACC 6350 Management Control Systems: 5.13
+ACC 6540 Professional Ethics: 5.85
